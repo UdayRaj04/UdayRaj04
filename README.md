@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Uday Raj Sharma!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studies Computer Science Engineering at FIEM, Kolkata<br/>
