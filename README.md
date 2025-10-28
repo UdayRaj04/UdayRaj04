@@ -35,5 +35,5 @@
 <div align="center">
 
   ![](https://nirzak-streak-stats.vercel.app/?user=udayraj04&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=udayraj04&theme=dark&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=udayraj04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
