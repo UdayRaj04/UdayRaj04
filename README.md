@@ -30,8 +30,12 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=udayraj04&theme=dark&hide_border=false)<br/>
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=udayraj04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=udayraj04&theme=dark&hide_border=false)<br/>
+
+</div>
+
+![](https://github-profile-trophy.vercel.app/?username=udayraj04&theme=dark&no-frame=false&no-bg=true&margin-w=4)
